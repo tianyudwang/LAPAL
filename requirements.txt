@@ -1,0 +1,9 @@
+mujoco_py
+gym==0.21.0
+torch
+tensorboard
+rl_plotter
+pyyaml
+ruamel.yaml
+robosuite
+h5py
