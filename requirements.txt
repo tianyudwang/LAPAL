@@ -7,3 +7,4 @@ pyyaml
 ruamel.yaml
 robosuite
 h5py
+termcolor
